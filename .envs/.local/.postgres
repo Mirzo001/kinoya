@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=kinoya
+POSTGRES_USER=aTXPWsqMHJVANsrUrputWfiVsWSnofoC
+POSTGRES_PASSWORD=ZQ0T2zOzKB7NB5u4YLBNPEQOnlS7Qd2n5NR51Bo2l6MulDPXzKzRSPBWIk1WmqAv
